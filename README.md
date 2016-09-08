@@ -2,7 +2,7 @@
 
 This repository contains the data and code necessary to replicate the analysis described in the PLOS ONE article:
 
-['Ultrahigh Dimensional Variable Selection for Interpolation of Point Referenced Spatial Data: A Digital Soil Mapping Case Study'](10.1371/journal.pone.0162489)
+['Ultrahigh Dimensional Variable Selection for Interpolation of Point Referenced Spatial Data: A Digital Soil Mapping Case Study'](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0162489)
 
 by [Benjamin R. Fitzpatrick (BRF)](http://orcid.org/0000-0003-1916-0939), David W. Lamb (DWL) and Kerrie Mengersen (KM).
 
